@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="receptinator.backend:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="receptinator.backend.war">
+      <element id="artifact" artifact-name="receptinator.backend:war exploded" />
+    </root>
+  </artifact>
+</component>
